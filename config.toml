@@ -1,4 +1,4 @@
-baseurl = "duartemendes.dev"
+baseurl = "/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
