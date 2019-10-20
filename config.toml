@@ -42,7 +42,7 @@ disqusShortname = "duartecmendes"
       [[languages.en.menu.main]]
         identifier = "twitter"
         name = "Twitter"
-        url = "https://twitter.com/DuarteCMendes"
+        url = "https://twitter.com/duartecmendes"
       [[languages.en.menu.main]]
         identifier = "github"
         name = "Github"
