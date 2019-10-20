@@ -36,6 +36,10 @@ disqusShortname = "duartecmendes"
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
+        identifier = "archive"
+        name = "Archive"
+        url = "/archive"
+      [[languages.en.menu.main]]
         identifier = "twitter"
         name = "Twitter"
         url = "https://twitter.com/DuarteCMendes"
