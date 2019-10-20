@@ -14,4 +14,4 @@ As hobbies, I usually go to the gym everyday, it keeps my body healthy and mostl
 
 Back when I was younger, I used to be a bmx rider, which is so far, what left me the best memories and I feel the most proud of.
 
-If you want to get in touch, here's my [twitter](https://twitter.com/DuarteCMendes) or just send me an [email](mailto:duartecostamendes@gmail.com). 👋
+If you want to get in touch, here's my [twitter](https://twitter.com/duartecmendes) or just send me an [email](mailto:duartecostamendes@gmail.com). 👋
